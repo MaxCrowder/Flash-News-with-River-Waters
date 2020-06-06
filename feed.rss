@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Flash News with River Waters]]></title>
+		<description><![CDATA[After being fired from Channel 9, River Waters made it his life's mission to bring you the best content in broadcasting history. Every evening at 7pm EST, River Waters clips on his red power tie, chugs 4 shots of espresso and brings you a summary of the day's financial news in under 5 minutes. Stay up-to-date on the markets while drinking your coffee in the morning or unwinding in the evening.
+
+Enable him for free on your Amazon Alexa device. Support this podcast: <a href="https://anchor.fm/riverwaters/support" rel="payment">https://anchor.fm/riverwaters/support</a>]]></description>
+		<link>http://fnwrw.com</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/5293877/5293877-1588877643199-bbc31b7dce885.jpg</url>
+			<title>Flash News with River Waters</title>
+			<link>http://fnwrw.com</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 07 May 2020 19:13:21 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/20266734/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[River Waters]]></author>
+		<copyright><![CDATA[River Waters]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<anchor:support>https://anchor.fm/riverwaters/support</anchor:support>
+		<anchor:station>20266734</anchor:station>
+		<itunes:author>River Waters</itunes:author>
+		<itunes:summary>After being fired from Channel 9, River Waters made it his life&apos;s mission to bring you the best content in broadcasting history. Every evening at 7pm EST, River Waters clips on his red power tie, chugs 4 shots of espresso and brings you a summary of the day&apos;s financial news in under 5 minutes. Stay up-to-date on the markets while drinking your coffee in the morning or unwinding in the evening.
+
+Enable him for free on your Amazon Alexa device. Support this podcast: &lt;a href=&quot;https://anchor.fm/riverwaters/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/riverwaters/support&lt;/a&gt;</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>River Waters</itunes:name>
+			<itunes:email>tonightwithriverwaters@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/5293877/5293877-1588877643199-bbc31b7dce885.jpg"/>
+		<item>
+			<title><![CDATA[May 6th, 2020 - Flash News with River Waters]]></title>
+			<description><![CDATA[<p>River Waters takes a look at today's financial news. Tune in to find out what is happening around the globe.&nbsp;</p>
+
+--- 
+
+Support this podcast: <a href="https://anchor.fm/riverwaters/support" rel="payment">https://anchor.fm/riverwaters/support</a>]]></description>
+			<link>https://anchor.fm/riverwaters/episodes/May-6th--2020---Flash-News-with-River-Waters-edofif</link>
+			<guid isPermaLink="false">6ec27460-6b62-4fb3-be65-11cf66b982b6</guid>
+			<dc:creator><![CDATA[River Waters]]></dc:creator>
+			<pubDate>Thu, 07 May 2020 18:55:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/20266734/podcast/play/13433871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-7%2F71083304-44100-2-9b062f743a7db.mp3" length="3232726" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;River Waters takes a look at today&apos;s financial news. Tune in to find out what is happening around the globe.&amp;nbsp;&lt;/p&gt;
+
+--- 
+
+Support this podcast: &lt;a href=&quot;https://anchor.fm/riverwaters/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/riverwaters/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>98</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/5293877/5293877-1588877466325-205c41bc3ccd3.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

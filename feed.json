@@ -1,0 +1,24 @@
+{
+  "uid": "urn:uuid:86182771-2442-42fc-b520-7be46803254b",
+  "updateDate": "2020-05-11T22:00:00.0Z",
+  "titleText": "May 11th, 2020 - Flash News with River Waters",
+  "mainText": "",
+  "streamUrl": "https://flashnewswithriverwaters.netlify.app/2020-05-11.mp3",
+  "redirectionUrl": "https://fnwrw.com"
+}
+{
+  "uid": "urn:uuid:d8a9dce6-9fbe-4de2-a6d6-5effde41d0a7",
+  "updateDate": "2020-05-08T22:00:00.0Z",
+  "titleText": "May 8th, 2020 - Flash News with River Waters",
+  "mainText": "",
+  "streamUrl": "https://flashnewswithriverwaters.netlify.app/2020-05-08.mp3",
+  "redirectionUrl": "https://flashnewswithriverwaters.netlify.app"
+}
+{
+  "uid": "urn:uuid:1e3bfc43-3cf0-43f2-b581-05f7168064a4",
+  "updateDate": "2020-05-06T22:45:00.0Z",
+  "titleText": "May 6th, 2020 - Flash News with River Waters",
+  "mainText": "",
+  "streamUrl": "https://flashnewswithriverwaters.netlify.app/2020-05-06.mp3",
+  "redirectionUrl": "https://flashnewswithriverwaters.netlify.app"
+}
